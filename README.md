@@ -16,3 +16,5 @@ All educational books qualify for a discount (VAT is not charged on the price of
 ![gfphaekni](https://cloud.githubusercontent.com/assets/26182119/23624544/b84028e0-02ae-11e7-8dbd-c0e8b4c8267e.png)
 
 #Assignment3
+![gfpkzw7fq](https://cloud.githubusercontent.com/assets/26182119/23625522/239efd5c-02b2-11e7-84bb-1e29e47ee516.png)
+
