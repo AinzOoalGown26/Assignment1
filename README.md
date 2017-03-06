@@ -1,5 +1,5 @@
 # Assignments
-GroupAssignment
+#GroupAssignment
 
 For fictional books VAT is added to the cost price of the book.
 ![gejs5izx6](https://cloud.githubusercontent.com/assets/26182119/23622707/5f0a40ae-02a8-11e7-9f42-9c314404f13b.png)
